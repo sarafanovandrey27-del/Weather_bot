@@ -2,8 +2,8 @@ import telebot
 from telebot.types import ReplyKeyboardMarkup, KeyboardButton
 import requests
 
-TOKEN = '8929956860:AAFn4y0gsS-q18cFioiQ7N6BsK7y4AAbMP8'
-API_KEY = 'a88d665dc0c4dd302de8cdd78cd0acc5'
+TOKEN = ''
+API_KEY = ''
 Weather_API = 'https://api.openweathermap.org/data/2.5/weather'
 cataas_api = 'https://cataas.com/cat'
 
